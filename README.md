@@ -65,7 +65,7 @@ There are 2-dimension tables and a fact table. the dimension tables are all join
 
 ## Dashboard Highlights
 
-![](https://github.com/Esther-git87/WHATSAPP-GROUP-ENGAGEMENT/blob/main/dashboard.png)
+![](https://github.com/Esther-git87/WHATSAPP-GROUP-ENGAGEMENT/blob/main/SBCyouth.png)
 
 ### 🔝 Top 10 Active Members
 
