@@ -14,7 +14,7 @@
               "name": {
                 "expr": {
                   "Literal": {
-                    "Value": "'Slide2.PNG'"
+                    "Value": "'shepherd.svg'"
                   }
                 }
               },
@@ -23,7 +23,7 @@
                   "ResourcePackageItem": {
                     "PackageName": "RegisteredResources",
                     "PackageType": 1,
-                    "ItemName": "Slide27991065812195254.PNG"
+                    "ItemName": "shepherd7350950192863318.svg"
                   }
                 }
               },
